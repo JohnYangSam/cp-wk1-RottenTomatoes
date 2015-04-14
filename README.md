@@ -11,3 +11,8 @@ Required stories:
 - Pull to refresh movies list
 Optional:
 - Looping back if academic work lightens
+
+Demo
+----
+![Rotten Tomatoes
+Demo](https://github.com/JohnYangSam/cp-wk1-RottenTomatoes/blob/master/RottenTomatoesDemo.gif)
